@@ -1,0 +1,36 @@
+@charset "UTF-8"
+
+
+#box {
+	margin-left: 40pt;
+	margin-top: 40pt;
+}
+
+ul {list-style-type:none;
+	font-size: 8pt;
+}
+
+#HELLOWORLD {
+	width:3000pt;
+	font-size: 300pt;
+	letter-spacing: -0.04em;
+	line-height: 222pt;
+	margin-left: -32pt;
+	margin-top:-30pt;
+	color: pink;
+}
+#nihao {
+	width: 5000pt;	
+	font-size:340pt;
+	letter-spacing: 0.1em;
+	margin-left:-30pt;
+	margin-top: 220pt;
+	color:orange;
+}
+
+#hwback {
+	font-size: 8pt;
+	margin-left: 40pt;
+	margin-top:250pt;
+    
+    }
