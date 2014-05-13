@@ -1,0 +1,81 @@
+
+{
+
+	"HTMLFileName":"content_creation.html",
+	"pref__general__AutoKeyframeProperties":"true",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"symbol_stage":{
+		"element_${_RoundRect}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79",
+			"locked":"false",
+			"timelineTreeOpened":"false"},
+		"dummyStageParentWidth":"500px",
+		"element_${_background}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767",
+			"locked":"false",
+			"animationEnabled":"false",
+			"timelineTreeOpened":"false",
+			"invisible":"false"},
+		"dummyStageParentHeight":"350px",
+		"element_${_Text}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767",
+			"locked":"false",
+			"timelineTreeOpened":"false"},
+		"element_${_background2}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineTreeOpened":"false",
+			"timelineColor":"0x00a096"},
+		"element_${_E_shadow}":{
+			"timelineColor":"0xeedf79",
+			"animationEnabled":"false"},
+		"defaultStageParentHeight":"350px",
+		"element_${_backgroundOnly600x400}":{
+			"locked":"false"},
+		"element_${_D_shadow}":{
+			"timelineColor":"0xeedf79",
+			"animationEnabled":"false"},
+		"element_${_IMG_2058}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"false",
+			"timelineColor":"0x50bd82"},
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineTreeOpened":"true",
+			"timelineColor":"0xeedf79"},
+		"defaultStageParentWidth":"500px"},
+	"TransitionIdCounter":"6",
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"100",
+	"pixelsPerMs":"0.2",
+	"pref__general__AudioMutedInTool":"false",
+	"pref__general__TimelineSnapEnabled":"true",
+	"usedBOM":"false",
+	"nextElementColorIndex":"6",
+	"stage-Default Timeline_playhead_ms":"0",
+	"stage-Default Timeline_playhead_anchor_ms":"-1",
+	"viewStartY":"0",
+	"stage-Default Timeline_mark_ms":"-1"}
