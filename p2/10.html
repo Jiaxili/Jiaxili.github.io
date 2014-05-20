@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+	<title>Chiang Wei-kuo</title>
+	<link href="css.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript">
+		function RL(){
+		var x = Math.round(Math.random()*2)
+		var y = new Array()
+		y[0]="25.html"
+		y[1]="26.html"
+		window.location=y[x]
+		}
+
+		function RL2(){
+		var x = Math.round(Math.random()*4)
+		var y = new Array()
+		y[0]="2.html"
+		y[1]="11.html"
+		y[2]="5.html"
+		y[3]="12.html"
+		window.location=y[x]
+		}
+
+		function RL3(){
+		var x = Math.round(Math.random()*6)
+		window.location="26.html"
+		}
+
+		function RL4(){
+		window.location="9.html"
+		}
+		</script>
+</head>
+<body>
+	<div class="all">
+	<div class="box3">
+		<img src="JWG.jpg" style="margin-left:200px; margin-top:50px;">
+	</div>
+	<div class="box4">
+		<h id="icon2">&#10050;</h><h> Chiang Wei-kuo</h>
+		<p class="intro" onClick="F()">As one of two sons of Chiang Kai-shek, Chiang Wei-kuo's name has a particular meaning as intended by his father. "Wei" literally means "parallel (of latitude)" while "kuo" means "nation"; in his brother's name, "Ching" literally means "longitude". The names are inspired by the references in Chinese classics such as the Guoyu, in which "to draw the longitudes and latitudes of the world" is used as a metaphor for a person with great abilities, especially in managing a country.<p>
+
+	</div>
+	<div class="box5">
+		<input class="b" type="button" value="meet his wife" onClick="RL()"><br>
+		<input class="b" type="button" value="meet his parents" onClick="RL2()"><br>
+		<input class="b" type="button" value="meet his children" onClick="RL3()"><br>
+		<input class="b" type="button" value="meet his brother" onClick="RL4()">
+
+</div>
+</body>
+</html>
